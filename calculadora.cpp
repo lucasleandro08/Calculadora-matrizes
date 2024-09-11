@@ -28,7 +28,7 @@ vector<vector<int>> adicionarMatrizes(const vector<vector<int>>& A, const vector
     return resultado;
 }
 
-// Função para subtrair duas matrizes
+// Função para subtrair duas matrizesaaaaaaaaa
 vector<vector<int>> subtrairMatrizes(const vector<vector<int>>& A, const vector<vector<int>>& B) {
     int linhas = A.size();
     int colunas = A[0].size();
